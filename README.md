@@ -30,7 +30,6 @@ This project uses AI to recommend hashtags for social media posts. It combines a
 3. Real-Time Updates: Incorporate live hashtag trends for more dynamic recommendations.
 
 
-## 📹 Video Tutorial
-You can download or preview the tutorial video here: [tutorial.mp4](REC-20250205234359.mp4)
-
+## 📹 Overview
+![ezgif-5aeb411eb32188](https://github.com/user-attachments/assets/2d0abcbb-5ed6-43f5-b98d-42f5e32850bf)
 
